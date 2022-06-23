@@ -1,1 +1,1 @@
-This is a read me shell permissions file
+This is a shell permissions task
